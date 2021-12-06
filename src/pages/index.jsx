@@ -1,8 +1,11 @@
+import Link from 'next/link'
+
 export default function Start() {
     return (
         <div>
-            <h1>Starting...</h1>
-            <h2>Testing...</h2>
+            <Link href="/pageTest"> 
+                Teste CSS Modular
+            </Link>
         </div>
     )
 }

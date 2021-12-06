@@ -1,0 +1,13 @@
+/* >>>>> CSS MODULAR <<<<< */
+
+.default {
+    height: 100%;
+    background-color: rgb(8, 36, 88);
+    color: white;
+}
+
+.default h1 {
+    margin: 0;
+    font-size: 30;
+    text-align: center;
+}

@@ -2,7 +2,7 @@
 
 ### NOME DO CURSO: React + Redux: Fundamentos e 2 Apps do Absoluto ZERO!
 
-Neste quinto módulo desenvolvemos o projeto utilizando o framework NextJS, integramos banco de dados a aplicação e utilizamos API.
+Neste quinto módulo desenvolvemos o projeto utilizando o framework NextJS, integramos banco de dados e utilizamos API.
 
 Principais conteúdos estudados/praticados:
 
