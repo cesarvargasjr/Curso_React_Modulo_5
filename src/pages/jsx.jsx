@@ -1,5 +1,7 @@
 // CONTEÚDO DE INTEGRAÇÃO JavaScript / JSX
 
+import Layout from "../components/Layout"
+
 export default function jsx() {
     // EXEMPLO #01
     const a = 5
@@ -18,14 +20,16 @@ export default function jsx() {
     }
 
     return (
-        <div>
-            {titulo}
-            {subtitulo()}
+        <Layout titulo="Estudando JSX">
+            <div>
+                {titulo}
+                {subtitulo()}
             <h3>JSX conceito central</h3>
             <h4>{a * b}</h4> 
-            <p>
-                {JSON.stringify({nome: 'Cesar', idade: 26})}
-            </p>
-        </div>
+                <p>
+                    {JSON.stringify({nome: 'Cesar', idade: 26})}
+                </p>
+            </div>
+        </Layout>
     )
 }
