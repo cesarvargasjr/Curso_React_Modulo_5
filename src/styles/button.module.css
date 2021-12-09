@@ -1,0 +1,15 @@
+.button {
+    background-color: rgb(8, 36, 88);
+    box-shadow:3px 3px 3px rgb(13, 55, 133); /* BOTÃO COM SENSAÇÃO 3D */
+    padding: 15px;
+    margin: 10px;
+    border-radius: 8px;
+    cursor: pointer; /* ALTERA ÍCONE DO CURSOR DO MOUSE */
+    font-size: 25px;
+    color: white;
+}
+
+.button:active {
+    position: relative;
+    top: 3px;
+}
