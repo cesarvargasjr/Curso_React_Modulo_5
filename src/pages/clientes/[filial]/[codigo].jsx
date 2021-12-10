@@ -1,5 +1,4 @@
-/* EXEMPLO DE NAVEGAÇÃO DINÂMICA, UTILIZAÇÃO DE COLCHETES
-NO ARQUIVO E NA PASTA ALÉM DO "useRouter" PARA TORNÁ-LO DINÂMICO */
+/* EXEMPLO DE NAVEGAÇÃO DINÂMICA UTILIZANDO COLCHETES NO ARQUIVO */
 
 import Layout from '../../../components/Layout'
 import { useRouter } from 'next/router'
