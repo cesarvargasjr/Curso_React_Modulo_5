@@ -17,6 +17,7 @@ export default function Start() {
             <Browser texto="Navegação #02" destino="/clientes/RS-01/12345"/> {/* PÁGINA EXEMPLO NAVEÇÃO DINÂMICA */}
             <Browser texto="Navegação #03" destino="/state"/> {/* PÁGINA EXEMPLO COMPONENTE COM ESTADO */}
             <Browser texto="Praticando" destino="/practice"/> {/* UMA PÁGINA APENAS PARA PRATICAR */}
+            <Browser texto="Integração com API #01" destino="/integrationFirst"/> {/* EXEMPLO 1 DE INTEGRAÇÃO COM API */}
         </div>
     )
 }
