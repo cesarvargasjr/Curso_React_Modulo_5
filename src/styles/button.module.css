@@ -9,6 +9,17 @@
     color: white;
 }
 
+.buttonLogin {
+    background-color: rgb(14, 122, 7);
+    box-shadow:3px 3px 3px rgb(10, 146, 67); /* BOTÃO COM SENSAÇÃO 3D */
+    padding: 10px;
+    margin: 30px;
+    border-radius: 8px;
+    cursor: pointer; /* ALTERA ÍCONE DO CURSOR DO MOUSE */
+    font-size: 20px;
+    color: white;
+}
+
 .button:active {
     position: relative;
     top: 3px;

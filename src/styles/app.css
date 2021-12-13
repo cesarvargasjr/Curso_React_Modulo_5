@@ -5,3 +5,11 @@ body {
   background-color: #222;
   color: #eee;
 }
+
+.divCenter {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
