@@ -18,6 +18,7 @@ export default function Start() {
             <Browser texto="Navegação #03" destino="/state"/> {/* PÁGINA EXEMPLO COMPONENTE COM ESTADO */}
             <Browser texto="Praticando" destino="/practice"/> {/* UMA PÁGINA APENAS PARA PRATICAR */}
             <Browser texto="Integração com API #01" destino="/integrationFirst"/> {/* EXEMPLO 1 DE INTEGRAÇÃO COM API */}
+            <Browser texto="Conteúdo estático" destino="/estatico"/> {/* EXEMPLO DE PRÉ-RENDERIZAÇÃO NA PRÁTICA */}
         </div>
     )
 }

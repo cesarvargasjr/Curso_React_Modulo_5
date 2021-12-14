@@ -1,6 +1,5 @@
-/* >>>>> PRATICANDO UMA NOVA PÁGINA DE NAVEGAÇÃO <<<<< */
+/* PRATICANDO E FAZENDO ALGUNS TESTES EM UMA NOVA PÁGINA DE NAVEGAÇÃO */
 
-//import Header from "../components/Header"
 import Layout from "../components/Layout"
 import styles from '../styles/button.module.css'
 
@@ -10,7 +9,7 @@ export default function Practice() {
         <Layout titulo="Cadastro de perfil profissional">
             <form method="post">
                 <div className="divCenter">
-                    <h1>Cadastro:</h1>
+                    <h1>Cadastro</h1>
                     <div> Nome <input type="text" name="Nome"></input></div>
                     <div> Senha <input type="password" name="Nome"></input></div>
                     <div> Categoria <select>
