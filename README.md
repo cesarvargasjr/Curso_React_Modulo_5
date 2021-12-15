@@ -1,4 +1,4 @@
-## MÓDULO 5: NextJS / Banco de dados / API
+## MÓDULO 5: NextJS
 
 ### NOME DO CURSO: React + Redux: Fundamentos e 2 Apps do Absoluto ZERO!
 
