@@ -5,7 +5,6 @@
 Principais conteúdos estudados/praticados neste módulo:
 
 - Utilização do Framework NextJS
-- Integração com Banco de dados (Firebase)
 - Utilização de API
 - Integração JavaScript / JSX
 - CSS Global e Modularizado
